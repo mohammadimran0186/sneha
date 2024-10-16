@@ -1,0 +1,16 @@
+{
+    "name": "demoapp",
+    "version": "1.0.0",
+    "description": "A basic drawing management app",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Imran",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "multer": "^1.4.2"
+    }
+  }
+  
